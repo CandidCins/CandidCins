@@ -1,9 +1,8 @@
-### Hi there 👋
 
-# 💫 About Me:
-👩🏾‍💻 Currently working on my navigation app<br>
-📚 Currently learning Audio development<br>
-🔎 Open to all oppurtunities!<br>
+# 💫 Candid Cins:
+Self-taught developer of 3 years primarily mobile & desktop applications. </br>
+Database design & cleaning experience for a mid-sized law firm's Records Department. </br>
+I'm looking to specialize in Audio but am open to all dev opputunities that may arise !
 
 
 ## 🌐 Socials:
