@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👩🏾‍💻 I’m currently working on my navigation app<br>
-📚 I’m currently learning Audio development<br>
+👩🏾‍💻 Currently working on my navigation app<br>
+📚 Currently learning Audio development<br>
 🔎 Open to all oppurtunities!<br>
 
 
@@ -16,16 +16,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CandidCins&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CandidCins&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CandidCins&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=CandidCins&icon=5&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
