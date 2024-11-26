@@ -1,7 +1,6 @@
 
 # 💫 Candid Cins:
 Self-taught developer of 3 years primarily mobile & desktop applications. </br>
-Database design & development for a mid-sized law firm's in NYC. </br>
 I'm looking to specialize in Audio but am open to all dev opputunities that may arise !
 
 
