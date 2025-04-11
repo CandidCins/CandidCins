@@ -1,6 +1,5 @@
 
 # 💫 Candid Cins:
-Self-taught developer of 4 years primarily mobile & desktop applications. </br>
 I'm looking to specialize in Audio but am open to all dev opputunities that may arise !
 
 
